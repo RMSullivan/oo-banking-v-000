@@ -11,5 +11,5 @@ def deopsit(deposit_amount)
   self.balance +=deposit_amount
 end
 
-  
+
 end
